@@ -1,0 +1,26 @@
+set shortmess=atI
+set nu				
+set mouse=a
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set autoindent
+set cursorline
+set expandtab
+set showmatch
+set ruler
+
+set completeopt=longest,menu
+set smartindent
+
+set guifont=Consolas:h15
+
+
+set showmode
+set showcmd
+set t_Co=256
+set noerrorbells
+
+syntax on
+
+
